@@ -1,0 +1,10 @@
+name: もん
+bio: |
+  デジタルな物を創る対価で生きています。
+  お金を溶かすことが得意です。
+avatar: ./avatars/big-mon.jpg
+social:
+  - url: https://twitter.com/BIG_MON
+  - url: https://github.com/big-mon
+  - url: https://steamcommunity.com/id/big-mon/
+featured: true
