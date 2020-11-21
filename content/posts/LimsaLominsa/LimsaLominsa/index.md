@@ -1,7 +1,7 @@
 ---
 title: "リムサ・ロミンサ"
 slug: "limsa-lominsa-lower-decks"
-author: もん
+author: Mon
 date: 2020-11-02
 hero: "./limsa-hero.jpg"
 excerpt: ' '

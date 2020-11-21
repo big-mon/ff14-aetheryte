@@ -1,7 +1,7 @@
 ---
 title: "複製サレタ工場廃墟"
 slug: "the-copied-factory"
-author: もん
+author: Mon
 date: 2020-11-03
 hero: "./TheCopiedFactory1.jpg"
 excerpt: ' '

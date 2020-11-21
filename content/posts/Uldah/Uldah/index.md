@@ -1,7 +1,7 @@
 ---
 title: "ウルダハ"
 slug: "uldah"
-author: もん
+author: Mon
 date: 2020-11-05
 hero: "./uldah-sign.jpg"
 excerpt: ' '

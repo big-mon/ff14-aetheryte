@@ -1,7 +1,7 @@
 ---
 title: "サマーフォード庄"
 slug: "summerford-farms"
-author: もん
+author: Mon
 date: 2020-11-07
 hero: "./SummerfordFarms-view.jpg"
 excerpt: ' '
