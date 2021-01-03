@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Coeurl's Eye | Final Fantasy XIV fansite`,
-    name: `Coeurl's Eye`,
+    title: `幻想手帖 | Final Fantasy XIV fansite`,
+    name: `幻想手帖`,
     siteUrl: `https://eorzea.damonge.com`,
     description: `Final Fantasy XIV のスクリーンショットなどまとめるファンサイト`,
     hero: {
@@ -43,8 +43,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Coeurl's Eye`,
-        short_name: `Coeurl's Eye`,
+        name: `幻想手帖`,
+        short_name: `幻想手帖`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
